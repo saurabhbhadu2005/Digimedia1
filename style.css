@@ -1,0 +1,32 @@
+.container>a{
+    color: 	rgb(195, 76, 94);
+}
+@media screen and (max-width:992px){
+.logo{
+    display: none;
+}
+}
+.icons{
+    color: 	rgb(195, 76, 94);
+}
+.nav-item>.nav-link:hover{
+    color: 	rgb(195, 76, 94);
+}
+.slider-text>h3{
+    color: 	rgb(195, 76, 94);
+}
+.Free-Quote:hover{
+    background-color: 	rgb(195, 76, 94);
+}
+.hadding{
+    color:rgb(195, 76, 94); 
+    font-weight: bold;
+}
+.contact{
+    background-color: 	rgb(195, 76, 94);
+    margin-top: 5%;
+    color: white;
+}
+.fotter{
+    background-color: 	rgb(195, 76, 94);
+}
